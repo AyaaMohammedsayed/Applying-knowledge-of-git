@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Hello world
-Hello again
-=======
- 
->>>>>>> parent of d5ca485 (all is added)
