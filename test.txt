@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world
+=======
+ 
+>>>>>>> parent of d5ca485 (all is added)
